@@ -1,4 +1,4 @@
-Directory contains followings.
+This Repository contains followings.
 
   directory : dictionaries : Saved dictionaries
                              Created via Numpy
