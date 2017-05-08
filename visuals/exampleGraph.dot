@@ -1,0 +1,15 @@
+/*****
+exampleGraph
+*****/
+
+digraph G {
+  graph [splines=true overlap=false]
+  node  [shape=ellipse, width=0.3, height=0.3]
+  1 [label="1"];
+  5 [label="5"];
+  12 [label="12"];
+  1 -> 5;
+  5 -> 1;
+  5 -> 12;
+  label = "\nexampleGraph\n";  fontsize=24;
+}
