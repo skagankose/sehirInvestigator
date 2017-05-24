@@ -4,11 +4,11 @@ This Repository contains followings.
   - Saved dictionaries
   - Created via Numpy
 
-  1.1. file : followees.npy : Followee of 142 core users
-  1.2. file : followers.npy : Followers of 142 core users
+  * file : followees.npy : Followee of 142 core users
+  * file : followers.npy : Followers of 142 core users
 
   2. directory : graphs : Pre-constructed graphs
-  2.1. file : edgeGraph.txt
+  * file : edgeGraph.txt
   - Each line contains an edge information w/in Sehir network
   - Created via Snap
 
