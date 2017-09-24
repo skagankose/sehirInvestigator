@@ -1,3 +1,6 @@
+# Sehir Investigator
+Analysis of users in Twitter network of Sehir University using SNA and ML techniques.
+
 This Repository contains followings.
 
   1. directory : dictionaries
