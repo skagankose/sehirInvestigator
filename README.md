@@ -1,5 +1,5 @@
 # Sehir Investigator
-Analysis of users in Twitter network of Sehir University using SNA and ML techniques.
+This is an analysis of users in Twitter network of Sehir University using SNA and ML techniques.
 
 This Repository contains followings.
 
